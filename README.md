@@ -16,7 +16,7 @@
              特例-不是很推荐xwrt主分支此分支同步的是官方主分支你可以尝试其他xwrt分支！
  ### 1.1-大爷请点击如下！
  [`视频教程！！！💕`](https://www.youtube.com/watch?v=redrbNAKuSg)
- [`高大全说明书-自己认真瞅瞅！！！💕`](https://github.com/danshui-git/shuoming)
+ [`高大全说明书-自己认真瞅瞅！！！💕`](https://github.com/Namia-Y/shuomingshu)
   [`必看项！！！💕`](https://github.com/Namia-X/OpenWrt-X/blob/main/backups-X/%E5%B7%B2%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E/txt)
 ### 💕💕文化有限主要更改前端配置，后端配置是大灰狼大佬，后端正在学习中emmm！💕💕
 ### 2-特别鸣谢大灰狼🎉🎉🎉，它在努力更新common.sh
