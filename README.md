@@ -16,7 +16,7 @@
 
 
                 我是一个没有感情的虚线-.-！【正在测试Lienol-19.07】其他本人测试中，测试出来会在必看项表明💕!
-                关于大家最担心的如何替换插件或者仓库！
+                关于大家最担心的如何替换插件或者仓库，请看说明书！
   [`说明书-不懂自己认真瞅瞅`](https://github.com/danshui-git/shuoming)
 ### 大爷请点击如下！
  [`必看项！！！！`](https://github.com/Namia-X/OpenWrt-X/blob/main/backups-X/%E5%B7%B2%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E/txt)
