@@ -26,7 +26,7 @@
 ### 前端配置281677160后端配置大灰狼，我主要是去除前端看着不舒服的，后端正在学习中emmm！
 
   [`281677160前端`](https://github.com/281677160/build-actions)
-### 特别鸣谢[`shidahuilang`]🎉🎉🎉，它在努力更新common 
+### 特别鸣谢大灰狼🎉🎉🎉，它在努力更新common 
   [`shidahuilang后端`](https://github.com/shidahuilang/common)
 
 ### 关于大家最担心的如何替换插件或者仓库！
