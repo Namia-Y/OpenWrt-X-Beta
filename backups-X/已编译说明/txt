@@ -1,4 +1,19 @@
+-.-其他分支正在测试中💕！
+
                 我是一个没有感情的虚线-.-！【lede-18.06编译6.6内核固件】已经测试完毕！ 直接编译或者ssh选取你自己所需💕!
                 我是一个没有感情的虚线-.-！【Immortalwrt-21.02编译5.4固件】已经测试完毕！ 直接编译或者ssh选取你自己所需💕!
                 我是一个没有感情的虚线-.-！【Official-22.03编译5.10固件】已经测试完毕！ 直接编译或者ssh选取你自己所需💕!
                 我是一个没有感情的虚线-.-！【Xwrt-master编译6.6固件】已经测试完毕！ 直接编译或者ssh选取你自己所需💕!
+                💕Lienol-19.07有毒正在报如下错误，正在测试中
+
+Collected errors:
+ * check_data_file_clashes: Package libustream-openssl20201210 wants to install file /Lienol1907/openwrt/build_dir/target-x86_64_musl/root-x86/lib/libustream-ssl.so
+	But that file is already provided by package  * libustream-wolfssl20201210
+ * opkg_install_cmd: Cannot install package libustream-openssl20201210.
+ * satisfy_dependencies_for: Cannot satisfy the following dependencies for luci-app-ssr-plus:
+ * 	libopenssl-legacy
+ * opkg_install_cmd: Cannot install package luci-app-ssr-plus.
+ * satisfy_dependencies_for: Cannot satisfy the following dependencies for automount:
+ * 	kmod-fs-ntfs3
+ * opkg_install_cmd: Cannot install package automount.
+Configuring kmod-usb-net-rtl8152.
