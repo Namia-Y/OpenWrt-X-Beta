@@ -14,7 +14,7 @@
              我是一个没有感情的虚线-.-！【正在测试Lienol-19.07】其他分支本人测试中，测试出来会在【必看项】表明💕!
              总插件N个，我装插件安装的数量基于x86有【53】未安装【N个】后端未配置的ipk显示【暂无】。
              特例-不是很推荐xwrt主分支此分支同步的是官方主分支你可以尝试其他xwrt分支！
- ### 1.1-大爷请点击如下！
+ ### 1.1-大爷请点击！
  [`视频教程！！！💕`](https://www.youtube.com/watch?v=redrbNAKuSg)
  [`高大全说明书-自己认真瞅瞅！！！💕`](https://github.com/Namia-Y/shuomingshu)
   [`必看项！！！💕`](https://github.com/Namia-X/OpenWrt-X/blob/main/backups-X/%E5%B7%B2%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E/txt)
