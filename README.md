@@ -16,6 +16,8 @@
 
 
                 我是一个没有感情的虚线-.-！【正在测试Lienol-19.07】其他本人测试中，测试出来会在必看项表明💕!
+                关于大家最担心的如何替换插件或者仓库！
+  [`说明书-不懂自己认真瞅瞅`](https://github.com/danshui-git/shuoming)
 ### 大爷请点击如下！
  [`必看项！！！！`](https://github.com/Namia-X/OpenWrt-X/blob/main/backups-X/%E5%B7%B2%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E/txt)
 ### 前端配置281677160后端配置大灰狼，我主要是去除前端看着不舒服的，后端正在学习中emmm！
@@ -24,8 +26,7 @@
 ### 特别鸣谢大灰狼🎉🎉🎉，它在努力更新common 
   [`shidahuilang后端`](https://github.com/shidahuilang/common)
 
-### 关于大家最担心的如何替换插件或者仓库！
-  [`说明书-不懂自己认真瞅瞅`](https://github.com/danshui-git/shuoming)
+
 
 ### 注意！🎉🎉🎉
  【lede-18.06编译6.6内核】
