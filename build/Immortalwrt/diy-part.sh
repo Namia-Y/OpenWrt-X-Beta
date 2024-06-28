@@ -95,9 +95,6 @@ export kernel_usage="stable"
 
 # 以下是我找的插件库，你如过不想用请#加空格注释掉
 # 18-----------------------------------------------------另外别懂的，请勿瞎动！！--------------------------------------------------------------------
-# 网络ssh attack防御
-git clone https://github.com/natelol/luci-app-beardropper  package/luci-app-beardropper
-
 # 网络DNS 泄漏测试
 git clone https://github.com/animegasan/luci-app-dnsleaktest  package/luci-app-dnsleaktest
 
