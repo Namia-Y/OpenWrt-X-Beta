@@ -19,14 +19,14 @@
  [`高大全说明书-自己认真瞅瞅！！！💕`](https://github.com/danshui-git/shuoming)
   [`必看项！！！💕`](https://github.com/Namia-X/OpenWrt-X/blob/main/backups-X/%E5%B7%B2%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E/txt)
 ### 💕💕文化有限主要更改前端配置，后端配置是大灰狼大佬，后端正在学习中emmm！💕💕
-### 3-特别鸣谢大灰狼🎉🎉🎉，它在努力更新common.sh
+### 2-特别鸣谢大灰狼🎉🎉🎉，它在努力更新common.sh
   [`shidahuilang后端💕`](https://github.com/shidahuilang/common)
 
 ### Red roses
 [![Telegram](https://img.shields.io/badge/-Telegram-D114855?style=flat&logo=Telegraml&logoColor=white)](https://t.me/+LPeqwOcUjk40ZjRl)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Namia-X)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kmy258855@gmail.com)
-## 4-用的不朽作为示列图片
+## 3-用的不朽作为示列图片
 ![img.png](backups-X/实例/img.png)
 ![1.png](backups-X/实例/1img.png)
 ![2.png](backups-X/实例/2img.png)
