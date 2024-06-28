@@ -38,7 +38,7 @@
 
         【暂无】
 
-## 自动更新固件
+## 用的不朽作为示列图片
 ![img.png](backups-X/实例/img.png)
 ![1.png](backups-X/实例/1img.png)
 ![2.png](backups-X/实例/2img.png)
