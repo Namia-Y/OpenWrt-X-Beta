@@ -1,5 +1,9 @@
 -.-时间都在2-3小时左右！固件ip 192.168.5.1 密码【空】
 
+-.-大众常用是18.06lede的所以你直接无脑点击编译就行插件已经基于本人测试完毕直接使用！不想用的直接在seed删除
+未删除的向这种-CONFIG_PACKAGE_luci-app-accesscontrol=y
+你要删除的向这种-# CONFIG_PACKAGE_luci-app-accesscontrol is not set
+你要添加的向这种CONFIG_PACKAGE_xxxxxxx=y    x代表你的插件名字
 
 -.-其他分支正在测试中💕！
 
@@ -25,17 +29,31 @@ Configuring kmod-usb-net-rtl8152.
 
 如下这些是正在求教大灰狼解决的依赖
 
-天灵源码21.02
+【天灵源码】21.02
 【暂无】
+【天灵源码】23.05
+WARNING: Makefile 'package/feeds/luci/luci-app-cloudflared/Makefile' 依赖于不存在的 'cloudflared'
 
-Lienol-源码19.07
+
+
+【Lienol-源码】19.07
 WARNING: Makefile 'package/feeds/other/automount/Makefile' has a dependency on 'kmod-fs-ntfs3', which does not exist
 WARNING: Makefile 'package/feeds/other/nps/Makefile' has a build dependency on 'upx/host', which does not exist
+【Lienol-源码】23.05
+WARNING: Makefile 'package/feeds/telephony/asterisk/Makefile' has a dependency on 'libjwt', which does not exist
+WARNING: Makefile 'package/feeds/luci/luci-app-cloudflared/Makefile' has a dependency on 'cloudflared', which does not exist
+WARNING: Makefile 'package/feeds/luci/luci-app-softether/Makefile' has a dependency on 'softethervpn5-client', which does not exist
+WARNING: Makefile 'package/feeds/other/nps/Makefile' has a build dependency on 'upx/host', which does not exist
+WARNING: Not overriding core package 'automount'; use -f to force
+WARNING: Not overriding core package 'autosamba'; use -f to force
 
-Official源码22.03
+【Official源码】22.03
 WARNING: Makefile 'package/feeds/langge1/autocore/Makefile' has a dependency on 'bcm27xx-userland', which does not exist
 WARNING: Makefile 'package/feeds/langge1/automount/Makefile' has a dependency on 'kmod-fs-ntfs3', which does not exist
 WARNING: Makefile 'package/feeds/packages/bcm27xx-eeprom/Makefile' has a dependency on 'bcm27xx-userland', which does not exist
+【Official源码23.05
+WARNING: Makefile 'package/feeds/langge1/autocore/Makefile' has a dependency on 'bcm27xx-userland', which does not exist
+WARNING: Makefile 'package/feeds/packages/bcm27xx-eeprom/Makefile' has a dependency on 'bcm27xx-userland', which does not exist
 
-Xwrt-源码
+【Xwrt-源码】
 【暂无】
