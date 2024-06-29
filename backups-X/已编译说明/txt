@@ -26,31 +26,16 @@ Configuring kmod-usb-net-rtl8152.
 如下这些是正在求教大灰狼解决的依赖
 
 天灵源码21.02
-WARNING: Makefile 'package/feeds/langge1/linkease/Makefile' has a dependency on 'ffmpeg-remux', which does not exist
-WARNING: Makefile 'package/feeds/langge1/luci-app-istorex/Makefile' has a dependency on 'luci-app-store', which does not exist
-WARNING: Makefile 'package/feeds/langge1/luci-app-istorex/Makefile' has a dependency on 'luci-lib-taskd', which does not exist
-WARNING: Makefile 'package/feeds/langge1/luci-app-quickstart/Makefile' has a dependency on 'luci-app-store', which does not exist
-WARNING: Makefile 'package/feeds/langge1/UnblockNeteaseMusic-Go/Makefile' has a build dependency on 'upx/host', which does not exist
+【暂无】
 
 Lienol-源码19.07
 WARNING: Makefile 'package/feeds/other/automount/Makefile' has a dependency on 'kmod-fs-ntfs3', which does not exist
 WARNING: Makefile 'package/feeds/other/nps/Makefile' has a build dependency on 'upx/host', which does not exist
-WARNING: Makefile 'package/feeds/passwall3/shadowsocksr-libev/Makefile' has a dependency on 'libopenssl-legacy', which does not exist
-WARNING: Makefile 'package/feeds/passwall3/shadowsocksr-libev/Makefile' has a dependency on 'libopenssl-legacy', which does not exist
-WARNING: Makefile 'package/feeds/passwall3/shadowsocksr-libev/Makefile' has a dependency on 'libopenssl-legacy', which does not exist
-WARNING: Makefile 'package/feeds/passwall3/shadowsocksr-libev/Makefile' has a dependency on 'libopenssl-legacy', which does not exist
-WARNING: Makefile 'package/feeds/passwall3/shadowsocksr-libev/Makefile' has a dependency on 'libopenssl-legacy', which does not exist
 
 Official源码22.03
 WARNING: Makefile 'package/feeds/langge1/autocore/Makefile' has a dependency on 'bcm27xx-userland', which does not exist
 WARNING: Makefile 'package/feeds/langge1/automount/Makefile' has a dependency on 'kmod-fs-ntfs3', which does not exist
 WARNING: Makefile 'package/feeds/packages/bcm27xx-eeprom/Makefile' has a dependency on 'bcm27xx-userland', which does not exist
-WARNING: Makefile 'package/feeds/luci/luci-app-cloudflared/Makefile' has a dependency on 'cloudflared', which does not exist
-WARNING: Makefile 'package/feeds/passwall3/shadowsocksr-libev/Makefile' has a dependency on 'libopenssl-legacy', which does not exist
-WARNING: Makefile 'package/feeds/passwall3/shadowsocksr-libev/Makefile' has a dependency on 'libopenssl-legacy', which does not exist
-WARNING: Makefile 'package/feeds/passwall3/shadowsocksr-libev/Makefile' has a dependency on 'libopenssl-legacy', which does not exist
-WARNING: Makefile 'package/feeds/passwall3/shadowsocksr-libev/Makefile' has a dependency on 'libopenssl-legacy', which does not exist
-WARNING: Makefile 'package/feeds/passwall3/shadowsocksr-libev/Makefile' has a dependency on 'libopenssl-legacy', which does not exist
 
 Xwrt-源码
-WARNING: Makefile 'package/feeds/luci/luci-app-cloudflared/Makefile' has a dependency on 'cloudflared', which does not exist
+【暂无】
