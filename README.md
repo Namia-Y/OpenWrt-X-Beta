@@ -22,7 +22,7 @@
 ### 2-特别鸣谢大灰狼🎉🎉🎉，它在努力更新common.sh
   [`shidahuilang后端💕`](https://github.com/shidahuilang/common)
 
-### Red roses
+### Friendly sociability
 [![Telegram](https://img.shields.io/badge/-Telegram-D114855?style=flat&logo=Telegraml&logoColor=white)](https://t.me/+LPeqwOcUjk40ZjRl)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Namia-X)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kmy258855@gmail.com)
