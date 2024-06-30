@@ -12,8 +12,8 @@ export Op_name="OpenWrt-X"                # 修改主机名称为OpenWrt-123(填
 
 # 2----------------------------------------------------------------------------------------------------------------------------------
 # 内核和系统分区大小(不是每个机型都可用)
-export Kernel_partition_size="20"            # 内核分区大小,每个机型默认值不一样 (填写您想要的数值,默认一般16,数值以MB计算，填0为不作修改),如果你不懂就填0
-export Rootfs_partition_size="580"            # 系统分区大小,每个机型默认值不一样 (填写您想要的数值,默认一般300左右,数值以MB计算，填0为不作修改),如果你不懂就填0
+export Kernel_partition_size="0"            # 内核分区大小,每个机型默认值不一样 (填写您想要的数值,默认一般16,数值以MB计算，填0为不作修改),如果你不懂就填0
+export Rootfs_partition_size="0"            # 系统分区大小,每个机型默认值不一样 (填写您想要的数值,默认一般300左右,数值以MB计算，填0为不作修改),如果你不懂就填0
 
 # 3----------------------------------------------------------------------------------------------------------------------------------
 # 默认主题设置
@@ -125,11 +125,13 @@ git clone https://github.com/animegasan/luci-app-dnsleaktest  package/luci-app-d
 # 20----------------------------------------------------------------------------------------------------------------------------------
 # 整理固件包时候,删除您不想要的固件或者文件,让它不需要上传到Actions空间(根据编译机型变化,自行调整删除名称)
 cat >"$CLEAR_PATH" <<-EOF
+packages
 config.buildinfo
 feeds.buildinfo
 sha256sums
 version.buildinfo
 profiles.json
+openwrt-x86-64-generic-kernel.bin
 openwrt-x86-64-generic.manifest
 openwrt-x86-64-generic-squashfs-rootfs.img.gz
 EOF
